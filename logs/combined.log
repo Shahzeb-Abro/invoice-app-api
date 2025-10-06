@@ -276,3 +276,32 @@
 [2025-10-06 21:20:09] [32minfo[39m: [4m[36mMongoDB Connected: localhost[39m[24m
 [2025-10-06 21:20:34] [32minfo[39m: Server is running on port 3000
 [2025-10-06 21:20:34] [32minfo[39m: [4m[36mMongoDB Connected: localhost[39m[24m
+[2025-10-06 21:31:03] [32minfo[39m: Server is running on port 3000
+[2025-10-06 21:31:03] [32minfo[39m: [4m[36mMongoDB Connected: localhost[39m[24m
+[2025-10-06 21:33:35] [32minfo[39m: Server is running on port 3000
+[2025-10-06 21:33:35] [32minfo[39m: [4m[36mMongoDB Connected: localhost[39m[24m
+[2025-10-06 21:34:12] [32minfo[39m: Server is running on port 3000
+[2025-10-06 21:34:12] [32minfo[39m: [4m[36mMongoDB Connected: localhost[39m[24m
+[2025-10-06 21:34:32] [32minfo[39m: Server is running on port 3000
+[2025-10-06 21:34:32] [32minfo[39m: [4m[36mMongoDB Connected: localhost[39m[24m
+[2025-10-06 21:36:44] [32minfo[39m: Server is running on port 3000
+[2025-10-06 21:36:44] [32minfo[39m: [4m[36mMongoDB Connected: localhost[39m[24m
+[2025-10-06 21:45:40] [32minfo[39m: Server is running on port 3000
+[2025-10-06 21:45:40] [32minfo[39m: [4m[36mMongoDB Connected: localhost[39m[24m
+[2025-10-06 21:45:44] [32minfo[39m: Server is running on port 3000
+[2025-10-06 21:45:44] [32minfo[39m: [4m[36mMongoDB Connected: localhost[39m[24m
+[2025-10-06 21:45:53] [32minfo[39m: [0mPOST /api/v1/invoices [31m500[0m 21.001 ms - 1183[0m
+[2025-10-06 21:46:15] [32minfo[39m: Server is running on port 3000
+[2025-10-06 21:46:15] [32minfo[39m: [4m[36mMongoDB Connected: localhost[39m[24m
+[2025-10-06 21:46:23] [32minfo[39m: Server is running on port 3000
+[2025-10-06 21:46:23] [32minfo[39m: [4m[36mMongoDB Connected: localhost[39m[24m
+[2025-10-06 21:46:26] [32minfo[39m: [0mPOST /api/v1/invoices [31m500[0m 50.082 ms - 1839[0m
+[2025-10-06 21:46:40] [32minfo[39m: [0mPOST /api/v1/invoices [31m500[0m 18.199 ms - 1469[0m
+[2025-10-06 21:49:14] [32minfo[39m: Server is running on port 3000
+[2025-10-06 21:49:14] [32minfo[39m: [4m[36mMongoDB Connected: localhost[39m[24m
+[2025-10-06 21:49:19] [32minfo[39m: [0mPOST /api/v1/invoices [31m500[0m 46.274 ms - 1934[0m
+[2025-10-06 21:50:01] [32minfo[39m: Server is running on port 3000
+[2025-10-06 21:50:01] [32minfo[39m: [4m[36mMongoDB Connected: localhost[39m[24m
+[2025-10-06 21:50:05] [32minfo[39m: [0mPOST /api/v1/invoices [32m201[0m 91.676 ms - 607[0m
+[2025-10-06 21:51:44] [32minfo[39m: Server is running on port 3000
+[2025-10-06 21:51:44] [32minfo[39m: [4m[36mMongoDB Connected: localhost[39m[24m
