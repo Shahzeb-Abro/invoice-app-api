@@ -6,6 +6,7 @@ dotenv.config();
 import morgan from "morgan";
 import "colors";
 import qs from "qs";
+import cookieParser from "cookie-parser";
 
 import authRoutes from "./auth/auth.routes.js";
 import invoiceRoutes from "./invoice/invoice.routes.js";
@@ -25,6 +26,7 @@ app.use(
   })
 );
 
+app.use(cookieParser());
 app.use(express.json());
 app.use(express.urlencoded({ extended: true }));
 
