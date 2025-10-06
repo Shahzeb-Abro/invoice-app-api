@@ -266,3 +266,13 @@
 [2025-10-06 21:15:11] [32minfo[39m: [4m[36mMongoDB Connected: localhost[39m[24m
 [2025-10-06 21:15:15] [32minfo[39m: New account created for email: humayun1234567@gmail.com
 [2025-10-06 21:15:15] [32minfo[39m: [0mPOST /api/v1/auth/register [32m201[0m 238.860 ms - 206[0m
+[2025-10-06 21:16:35] [32minfo[39m: Server is running on port 3000
+[2025-10-06 21:16:35] [32minfo[39m: [4m[36mMongoDB Connected: localhost[39m[24m
+[2025-10-06 21:16:45] [32minfo[39m: New account created for email: musa@gmail.com
+[2025-10-06 21:16:45] [32minfo[39m: [0mPOST /api/v1/auth/register [32m201[0m 417.812 ms - 375[0m
+[2025-10-06 21:19:30] [32minfo[39m: Server is running on port 3000
+[2025-10-06 21:19:30] [32minfo[39m: [4m[36mMongoDB Connected: localhost[39m[24m
+[2025-10-06 21:20:09] [32minfo[39m: Server is running on port 3000
+[2025-10-06 21:20:09] [32minfo[39m: [4m[36mMongoDB Connected: localhost[39m[24m
+[2025-10-06 21:20:34] [32minfo[39m: Server is running on port 3000
+[2025-10-06 21:20:34] [32minfo[39m: [4m[36mMongoDB Connected: localhost[39m[24m

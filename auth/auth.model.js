@@ -19,6 +19,13 @@ accountSchema.pre("save", async function (next) {
   next();
 });
 
+accountSchema.methods.correctPassword = async function (
+  candidatePassword,
+  userPassword
+) {
+  return await bcrypt.compare(candidatePassword, userPassword);
+};
+
 const Account = mongoose.model("Account", accountSchema);
 
 export default Account;
