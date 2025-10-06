@@ -1,0 +1,13 @@
+{"level":"error","message":"This is an error message"}
+[2025-10-05 20:45:58] [31merror[39m: This is an error message
+[2025-10-05 20:47:25] [C:\Users\Shahzeb\projects\invoice-app-api\node_modules\logform\combine.js:20] [31merror[39m: This is an error message
+[2025-10-05 20:47:41] [31merror[39m: This is an error message
+[2025-10-05 20:47:44] [31merror[39m: This is an error message
+[2025-10-05 20:49:14] [31merror[39m: This is an error message
+[2025-10-05 20:49:46] [31merror[39m: This is an error message
+[2025-10-05 20:50:24] [31merror[39m: This is an error message
+[2025-10-05 21:20:24] [31merror[39m: [1m[31mError: connect ECONNREFUSED ::1:27017, connect ECONNREFUSED 127.0.0.1:27017[39m[22m
+[2025-10-05 21:23:35] [31merror[39m: [1m[31mError: connect ECONNREFUSED ::1:27017, connect ECONNREFUSED 127.0.0.1:27017[39m[22m
+[2025-10-05 21:24:10] [31merror[39m: [1m[31mError: connect ECONNREFUSED ::1:27017, connect ECONNREFUSED 127.0.0.1:27017[39m[22m
+[2025-10-05 22:11:59] [31merror[39m: Account already exists for email: shahzebaliabro12345@gmail.com
+[2025-10-05 22:14:36] [31merror[39m: Account already exists for email: shahzebaliabro12345@gmail.com

@@ -1,0 +1,224 @@
+{"level":"info","message":"Server is running on port 3000"}
+{"level":"error","message":"This is an error message"}
+[2025-10-05 20:45:58] [32minfo[39m: Server is running on port 3000
+[2025-10-05 20:45:58] [31merror[39m: This is an error message
+[2025-10-05 20:47:25] [C:\Users\Shahzeb\projects\invoice-app-api\node_modules\logform\combine.js:20] [32minfo[39m: Server is running on port 3000
+[2025-10-05 20:47:25] [C:\Users\Shahzeb\projects\invoice-app-api\node_modules\logform\combine.js:20] [31merror[39m: This is an error message
+[2025-10-05 20:47:41] [32minfo[39m: Server is running on port 3000
+[2025-10-05 20:47:41] [31merror[39m: This is an error message
+[2025-10-05 20:47:44] [32minfo[39m: Server is running on port 3000
+[2025-10-05 20:47:44] [31merror[39m: This is an error message
+[2025-10-05 20:49:14] [32minfo[39m: Server is running on port 3000
+[2025-10-05 20:49:14] [31merror[39m: This is an error message
+[2025-10-05 20:49:46] [32minfo[39m: Server is running on port 3000
+[2025-10-05 20:49:46] [31merror[39m: This is an error message
+[2025-10-05 20:49:59] [32minfo[39m: ::1 - - [05/Oct/2025:15:49:59 +0000] "GET / HTTP/1.1" 200 13 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36"
+[2025-10-05 20:49:59] [32minfo[39m: ::1 - - [05/Oct/2025:15:49:59 +0000] "GET /favicon.ico HTTP/1.1" 404 150 "http://localhost:3000/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36"
+[2025-10-05 20:50:24] [32minfo[39m: Server is running on port 3000
+[2025-10-05 20:50:24] [31merror[39m: This is an error message
+[2025-10-05 20:50:52] [32minfo[39m: Server is running on port 3000
+[2025-10-05 20:51:31] [32minfo[39m: Server is running on port 3000
+[2025-10-05 20:51:35] [32minfo[39m: [0mGET / [36m304[0m 2.454 ms - -[0m
+[2025-10-05 20:51:47] [32minfo[39m: Server is running on port 3000
+[2025-10-05 20:51:49] [32minfo[39m: ::1 - GET / HTTP/1.1 304 - - 5.818 ms
+[2025-10-05 20:51:59] [32minfo[39m: Server is running on port 3000
+[2025-10-05 20:52:01] [32minfo[39m: ::1 - - [05/Oct/2025:15:52:01 +0000] "GET / HTTP/1.1" 304 -
+[2025-10-05 20:52:08] [32minfo[39m: Server is running on port 3000
+[2025-10-05 20:54:52] [32minfo[39m: Server is running on port 3000
+[2025-10-05 20:55:49] [32minfo[39m: Server is running on port 3000
+[2025-10-05 20:55:58] [32minfo[39m: Server is running on port 3000
+[2025-10-05 21:02:42] [32minfo[39m: Server is running on port 3000
+[2025-10-05 21:02:49] [32minfo[39m: Server is running on port 3000
+[2025-10-05 21:02:57] [32minfo[39m: Server is running on port 3000
+[2025-10-05 21:03:59] [32minfo[39m: Server is running on port 3000
+[2025-10-05 21:04:20] [32minfo[39m: Server is running on port 3000
+[2025-10-05 21:05:19] [32minfo[39m: Server is running on port 3000
+[2025-10-05 21:05:31] [32minfo[39m: Server is running on port 3000
+[2025-10-05 21:10:32] [32minfo[39m: Server is running on port 3000
+[2025-10-05 21:11:07] [32minfo[39m: Server is running on port 3000
+[2025-10-05 21:11:24] [32minfo[39m: Server is running on port 3000
+[2025-10-05 21:12:18] [32minfo[39m: Server is running on port 3000
+[2025-10-05 21:12:38] [32minfo[39m: Server is running on port 3000
+[2025-10-05 21:13:12] [32minfo[39m: Server is running on port 3000
+[2025-10-05 21:13:33] [32minfo[39m: Server is running on port 3000
+[2025-10-05 21:15:11] [32minfo[39m: Server is running on port 3000
+[2025-10-05 21:15:31] [32minfo[39m: Server is running on port 3000
+[2025-10-05 21:15:43] [32minfo[39m: Server is running on port 3000
+[2025-10-05 21:15:54] [32minfo[39m: Server is running on port 3000
+[2025-10-05 21:16:22] [32minfo[39m: Server is running on port 3000
+[2025-10-05 21:16:56] [32minfo[39m: Server is running on port 3000
+[2025-10-05 21:16:57] [32minfo[39m: Server is running on port 3000
+[2025-10-05 21:17:11] [32minfo[39m: Server is running on port 3000
+[2025-10-05 21:17:32] [32minfo[39m: Server is running on port 3000
+[2025-10-05 21:17:56] [32minfo[39m: Server is running on port 3000
+[2025-10-05 21:19:54] [32minfo[39m: Server is running on port 3000
+[2025-10-05 21:20:24] [31merror[39m: [1m[31mError: connect ECONNREFUSED ::1:27017, connect ECONNREFUSED 127.0.0.1:27017[39m[22m
+[2025-10-05 21:22:06] [32minfo[39m: Server is running on port 3000
+[2025-10-05 21:22:23] [32minfo[39m: Server is running on port 3000
+[2025-10-05 21:23:05] [32minfo[39m: Server is running on port 3000
+[2025-10-05 21:23:35] [31merror[39m: [1m[31mError: connect ECONNREFUSED ::1:27017, connect ECONNREFUSED 127.0.0.1:27017[39m[22m
+[2025-10-05 21:23:40] [32minfo[39m: Server is running on port 3000
+[2025-10-05 21:24:10] [31merror[39m: [1m[31mError: connect ECONNREFUSED ::1:27017, connect ECONNREFUSED 127.0.0.1:27017[39m[22m
+[2025-10-05 22:01:31] [32minfo[39m: Server is running on port 3000
+[2025-10-05 22:01:31] [32minfo[39m: [4m[36mMongoDB Connected: localhost[39m[24m
+[2025-10-05 22:05:45] [32minfo[39m: [0mGET /api/v1/auth/register [33m404[0m 47.807 ms - 159[0m
+[2025-10-05 22:06:11] [32minfo[39m: Server is running on port 3000
+[2025-10-05 22:06:11] [32minfo[39m: [4m[36mMongoDB Connected: localhost[39m[24m
+[2025-10-05 22:06:14] [32minfo[39m: [0mGET /api/v1/auth/register [33m404[0m 23.736 ms - 159[0m
+[2025-10-05 22:06:56] [32minfo[39m: [0mGET /api/v1/auth/register [33m404[0m 3.990 ms - 159[0m
+[2025-10-05 22:07:32] [32minfo[39m: [0mPOST /api/v1/auth/register [32m200[0m 38.119 ms - 42[0m
+[2025-10-05 22:08:39] [32minfo[39m: [0mPOST /api/v1/auth/register [32m200[0m 8.159 ms - 42[0m
+[2025-10-05 22:09:39] [32minfo[39m: Server is running on port 3000
+[2025-10-05 22:09:39] [32minfo[39m: [4m[36mMongoDB Connected: localhost[39m[24m
+[2025-10-05 22:09:43] [32minfo[39m: [0mPOST /api/v1/auth/register [32m200[0m 38.960 ms - 42[0m
+[2025-10-05 22:10:00] [32minfo[39m: Server is running on port 3000
+[2025-10-05 22:10:00] [32minfo[39m: [4m[36mMongoDB Connected: localhost[39m[24m
+[2025-10-05 22:10:03] [32minfo[39m: [0mPOST /api/v1/auth/register [32m200[0m 32.811 ms - 42[0m
+[2025-10-05 22:11:56] [32minfo[39m: Server is running on port 3000
+[2025-10-05 22:11:56] [32minfo[39m: [4m[36mMongoDB Connected: localhost[39m[24m
+[2025-10-05 22:11:59] [31merror[39m: Account already exists for email: shahzebaliabro12345@gmail.com
+[2025-10-05 22:11:59] [32minfo[39m: [0mPOST /api/v1/auth/register [32m200[0m 30.215 ms - 42[0m
+[2025-10-05 22:12:20] [32minfo[39m: Server is running on port 3000
+[2025-10-05 22:12:20] [32minfo[39m: [4m[36mMongoDB Connected: localhost[39m[24m
+[2025-10-05 22:12:24] [32minfo[39m: [0mPOST /api/v1/auth/register [32m200[0m 39.773 ms - 42[0m
+[2025-10-05 22:13:36] [32minfo[39m: Server is running on port 3000
+[2025-10-05 22:13:36] [32minfo[39m: [4m[36mMongoDB Connected: localhost[39m[24m
+[2025-10-05 22:13:39] [32minfo[39m: New account created for email: shahzebaliabro12345@gmail.com
+[2025-10-05 22:13:39] [32minfo[39m: [0mPOST /api/v1/auth/register [32m200[0m 61.061 ms - 42[0m
+[2025-10-05 22:14:36] [31merror[39m: Account already exists for email: shahzebaliabro12345@gmail.com
+[2025-10-05 22:15:28] [32minfo[39m: Server is running on port 3000
+[2025-10-05 22:15:28] [32minfo[39m: [4m[36mMongoDB Connected: localhost[39m[24m
+[2025-10-05 22:15:30] [32minfo[39m: Server is running on port 3000
+[2025-10-05 22:15:31] [32minfo[39m: [4m[36mMongoDB Connected: localhost[39m[24m
+[2025-10-05 22:15:55] [32minfo[39m: Server is running on port 3000
+[2025-10-05 22:15:55] [32minfo[39m: [4m[36mMongoDB Connected: localhost[39m[24m
+[2025-10-05 22:18:08] [32minfo[39m: Server is running on port 3000
+[2025-10-05 22:18:08] [32minfo[39m: [4m[36mMongoDB Connected: localhost[39m[24m
+[2025-10-05 22:20:49] [32minfo[39m: Server is running on port 3000
+[2025-10-05 22:20:49] [32minfo[39m: [4m[36mMongoDB Connected: localhost[39m[24m
+[2025-10-05 22:24:57] [32minfo[39m: Server is running on port 3000
+[2025-10-05 22:24:57] [32minfo[39m: [4m[36mMongoDB Connected: localhost[39m[24m
+[2025-10-05 22:25:32] [32minfo[39m: Server is running on port 3000
+[2025-10-05 22:25:32] [32minfo[39m: [4m[36mMongoDB Connected: localhost[39m[24m
+[2025-10-05 22:26:32] [32minfo[39m: Server is running on port 3000
+[2025-10-05 22:26:32] [32minfo[39m: [4m[36mMongoDB Connected: localhost[39m[24m
+[2025-10-05 22:26:55] [32minfo[39m: Server is running on port 3000
+[2025-10-05 22:26:55] [32minfo[39m: [4m[36mMongoDB Connected: localhost[39m[24m
+[2025-10-05 22:27:26] [32minfo[39m: Server is running on port 3000
+[2025-10-05 22:27:26] [32minfo[39m: [4m[36mMongoDB Connected: localhost[39m[24m
+[2025-10-05 22:27:30] [32minfo[39m: [0mPOST /api/v1/auth/register [33m404[0m 41.310 ms - 349[0m
+[2025-10-05 22:27:51] [32minfo[39m: Server is running on port 3000
+[2025-10-05 22:27:51] [32minfo[39m: [4m[36mMongoDB Connected: localhost[39m[24m
+[2025-10-05 22:28:00] [32minfo[39m: [0mPOST /api/v1/auth/register [33m400[0m 34.869 ms - 339[0m
+[2025-10-05 22:28:23] [32minfo[39m: Server is running on port 3000
+[2025-10-05 22:28:23] [32minfo[39m: [4m[36mMongoDB Connected: localhost[39m[24m
+[2025-10-05 22:28:26] [32minfo[39m: [0mPOST /api/v1/auth/register [33m400[0m 32.094 ms - 50[0m
+[2025-10-05 22:28:50] [32minfo[39m: Server is running on port 3000
+[2025-10-05 22:28:50] [32minfo[39m: [4m[36mMongoDB Connected: localhost[39m[24m
+[2025-10-05 22:29:07] [32minfo[39m: New account created for email: khizr772@gmail.com
+[2025-10-05 22:29:07] [32minfo[39m: [0mPOST /api/v1/auth/register [32m200[0m 118.144 ms - 42[0m
+[2025-10-05 22:37:51] [32minfo[39m: Server is running on port 3000
+[2025-10-05 22:37:51] [32minfo[39m: [4m[36mMongoDB Connected: localhost[39m[24m
+[2025-10-05 22:37:52] [32minfo[39m: Server is running on port 3000
+[2025-10-05 22:37:52] [32minfo[39m: [4m[36mMongoDB Connected: localhost[39m[24m
+[2025-10-05 22:38:02] [32minfo[39m: Server is running on port 3000
+[2025-10-05 22:38:02] [32minfo[39m: [4m[36mMongoDB Connected: localhost[39m[24m
+[2025-10-05 22:41:36] [32minfo[39m: Server is running on port 3000
+[2025-10-05 22:41:36] [32minfo[39m: [4m[36mMongoDB Connected: localhost[39m[24m
+[2025-10-05 22:41:44] [32minfo[39m: Server is running on port 3000
+[2025-10-05 22:41:44] [32minfo[39m: [4m[36mMongoDB Connected: localhost[39m[24m
+[2025-10-05 22:41:51] [32minfo[39m: Server is running on port 3000
+[2025-10-05 22:41:51] [32minfo[39m: [4m[36mMongoDB Connected: localhost[39m[24m
+[2025-10-05 22:42:24] [32minfo[39m: Server is running on port 3000
+[2025-10-05 22:42:24] [32minfo[39m: [4m[36mMongoDB Connected: localhost[39m[24m
+[2025-10-05 22:42:45] [32minfo[39m: Server is running on port 3000
+[2025-10-05 22:42:45] [32minfo[39m: [4m[36mMongoDB Connected: localhost[39m[24m
+[2025-10-05 22:43:16] [32minfo[39m: [0mGET /api/v1/invoices [32m200[0m 9.355 ms - 30[0m
+[2025-10-05 22:43:37] [32minfo[39m: [0mGET /api/v1/invoices?type=city [32m200[0m 1.346 ms - 30[0m
+[2025-10-05 22:44:04] [32minfo[39m: Server is running on port 3000
+[2025-10-05 22:44:04] [32minfo[39m: [4m[36mMongoDB Connected: localhost[39m[24m
+[2025-10-05 22:45:37] [32minfo[39m: Server is running on port 3000
+[2025-10-05 22:45:37] [32minfo[39m: [4m[36mMongoDB Connected: localhost[39m[24m
+[2025-10-05 22:46:53] [32minfo[39m: Server is running on port 3000
+[2025-10-05 22:46:53] [32minfo[39m: [4m[36mMongoDB Connected: localhost[39m[24m
+[2025-10-05 22:46:59] [32minfo[39m: [0mGET /api/v1/invoices?type=city [32m200[0m 24.553 ms - 523[0m
+[2025-10-05 22:47:09] [32minfo[39m: [0mGET /api/v1/invoices?destination=USA [32m200[0m 11.010 ms - 288[0m
+[2025-10-05 22:47:33] [32minfo[39m: [0mGET /api/v1/invoices?destination=USA&availableSeats[gte]=30 [32m200[0m 8.719 ms - 52[0m
+[2025-10-05 22:47:41] [32minfo[39m: [0mGET /api/v1/invoices?destination=USA [32m200[0m 7.688 ms - 288[0m
+[2025-10-05 22:47:51] [32minfo[39m: [0mGET /api/v1/invoices?destination=USA&availableSeats[gte]=30 [32m200[0m 6.824 ms - 52[0m
+[2025-10-05 22:48:40] [32minfo[39m: [0mGET /api/v1/invoices?fields=availableSeats [32m200[0m 10.748 ms - 326[0m
+[2025-10-05 22:48:53] [32minfo[39m: [0mGET /api/v1/invoices?fields=availableSeats,city [32m200[0m 9.533 ms - 326[0m
+[2025-10-05 22:48:58] [32minfo[39m: [0mGET /api/v1/invoices?fields=availableSeats,city [32m200[0m 8.497 ms - 326[0m
+[2025-10-05 22:49:02] [32minfo[39m: [0mGET /api/v1/invoices?fields=availableSeats [32m200[0m 12.375 ms - 326[0m
+[2025-10-05 22:49:07] [32minfo[39m: [0mGET /api/v1/invoices [32m200[0m 5.838 ms - 1257[0m
+[2025-10-05 22:49:34] [32minfo[39m: [0mGET /api/v1/invoices?fields=title,destination,price,type [32m200[0m 5.797 ms - 627[0m
+[2025-10-05 22:49:59] [32minfo[39m: [0mGET /api/v1/invoices?fields=title,destination,price,type&price[gte]=1000 [32m200[0m 5.775 ms - 52[0m
+[2025-10-05 22:51:54] [32minfo[39m: Server is running on port 3000
+[2025-10-05 22:51:54] [32minfo[39m: [4m[36mMongoDB Connected: localhost[39m[24m
+[2025-10-05 22:51:58] [32minfo[39m: [0mGET /api/v1/invoices?fields=title,destination,price,type&price[gte]=1000 [32m200[0m 11.890 ms - 52[0m
+[2025-10-05 22:52:00] [32minfo[39m: [0mGET /api/v1/invoices?fields=title,destination,price,type&price[gte]=1000 [32m200[0m 4.232 ms - 52[0m
+[2025-10-05 22:54:18] [32minfo[39m: Server is running on port 3000
+[2025-10-05 22:54:18] [32minfo[39m: [4m[36mMongoDB Connected: localhost[39m[24m
+[2025-10-05 22:54:21] [32minfo[39m: [0mGET /api/v1/invoices?fields=title,destination,price,type&price[gte]=1000 [32m200[0m 18.459 ms - 52[0m
+[2025-10-05 22:54:24] [32minfo[39m: [0mGET /api/v1/invoices?fields=title,destination,price,type&price[gte]=1000 [32m200[0m 5.293 ms - 52[0m
+[2025-10-05 22:54:31] [32minfo[39m: [0mGET /api/v1/invoices?fields=title,destination,price,type&price[lte]=1000 [32m200[0m 8.489 ms - 52[0m
+[2025-10-05 22:54:44] [32minfo[39m: [0mGET /api/v1/invoices?fields=title,destination,price,type&price=1000 [32m200[0m 8.158 ms - 162[0m
+[2025-10-05 22:55:01] [32minfo[39m: Server is running on port 3000
+[2025-10-05 22:55:01] [32minfo[39m: [4m[36mMongoDB Connected: localhost[39m[24m
+[2025-10-05 22:55:09] [32minfo[39m: [0mGET /api/v1/invoices?fields=title,destination,price,type&price[lte]=1000 [32m200[0m 40.699 ms - 52[0m
+[2025-10-05 22:56:44] [32minfo[39m: Server is running on port 3000
+[2025-10-05 22:56:44] [32minfo[39m: [4m[36mMongoDB Connected: localhost[39m[24m
+[2025-10-05 22:56:46] [32minfo[39m: [0mGET /api/v1/invoices?fields=title,destination,price,type&price[lte]=1000 [32m200[0m 20.722 ms - 52[0m
+[2025-10-05 23:00:18] [32minfo[39m: Server is running on port 3000
+[2025-10-05 23:00:18] [32minfo[39m: [4m[36mMongoDB Connected: localhost[39m[24m
+[2025-10-05 23:00:46] [32minfo[39m: Server is running on port 3000
+[2025-10-05 23:00:46] [32minfo[39m: [4m[36mMongoDB Connected: localhost[39m[24m
+[2025-10-05 23:00:54] [32minfo[39m: [0mGET /api/v1/invoices?fields=title,destination,price,type&price[lte]=1000 [32m200[0m 26.553 ms - 162[0m
+[2025-10-05 23:01:06] [32minfo[39m: [0mGET /api/v1/invoices?fields=title,destination,price,type&price[gte]=1000 [32m200[0m 29.735 ms - 627[0m
+[2025-10-05 23:01:19] [32minfo[39m: [0mGET /api/v1/invoices?fields=title,destination,price,type&price[gte]=1000,destination=USA [31m500[0m 59.163 ms - 1813[0m
+[2025-10-05 23:01:45] [32minfo[39m: Server is running on port 3000
+[2025-10-05 23:01:45] [32minfo[39m: [4m[36mMongoDB Connected: localhost[39m[24m
+[2025-10-05 23:01:51] [32minfo[39m: Server is running on port 3000
+[2025-10-05 23:01:51] [32minfo[39m: [4m[36mMongoDB Connected: localhost[39m[24m
+[2025-10-05 23:01:54] [32minfo[39m: [0mGET /api/v1/invoices?fields=title,destination,price,type&price[gte]=1000,destination=USA [31m500[0m 24.943 ms - 1813[0m
+[2025-10-05 23:02:04] [32minfo[39m: [0mGET /api/v1/invoices?fields=title,destination,price,type&price[gte]=1000,destination=USA [31m500[0m 10.326 ms - 1813[0m
+[2025-10-05 23:02:05] [32minfo[39m: [0mGET /api/v1/invoices?fields=title,destination,price,type&price[gte]=1000,destination=USA [31m500[0m 5.568 ms - 1813[0m
+[2025-10-05 23:02:14] [32minfo[39m: Server is running on port 3000
+[2025-10-05 23:02:14] [32minfo[39m: [4m[36mMongoDB Connected: localhost[39m[24m
+[2025-10-05 23:02:16] [32minfo[39m: [0mGET /api/v1/invoices?fields=title,destination,price,type&price[gte]=1000,destination=USA [31m500[0m 38.748 ms - 1813[0m
+[2025-10-05 23:02:17] [32minfo[39m: [0mGET /api/v1/invoices?fields=title,destination,price,type&price[gte]=1000,destination=USA [31m500[0m 8.906 ms - 1813[0m
+[2025-10-05 23:02:29] [32minfo[39m: Server is running on port 3000
+[2025-10-05 23:02:29] [32minfo[39m: [4m[36mMongoDB Connected: localhost[39m[24m
+[2025-10-05 23:02:34] [32minfo[39m: [0mGET /api/v1/invoices?fields=title,destination,price,type&price[gte]=1000&destination=USA [32m200[0m 22.279 ms - 162[0m
+[2025-10-05 23:02:49] [32minfo[39m: [0mGET /api/v1/invoices?fields=title,destination,price,type&price[gte]=1000 [32m200[0m 13.992 ms - 627[0m
+[2025-10-05 23:03:05] [32minfo[39m: [0mGET /api/v1/invoices?fields=title,destination,price,type&price[gte]=1000,destination=USA,Nepal [31m500[0m 33.001 ms - 1843[0m
+[2025-10-05 23:03:08] [32minfo[39m: [0mGET /api/v1/invoices?fields=title,destination,price,type&price[gte]=1000,destination=USA [31m500[0m 7.045 ms - 1813[0m
+[2025-10-05 23:03:14] [32minfo[39m: [0mGET /api/v1/invoices?fields=title,destination,price,type&price[gte]=1000&destination=USA [32m200[0m 9.729 ms - 162[0m
+[2025-10-05 23:03:18] [32minfo[39m: [0mGET /api/v1/invoices?fields=title,destination,price,type&price[gte]=1000&destination=USA,Nepal [32m200[0m 6.397 ms - 52[0m
+[2025-10-05 23:03:22] [32minfo[39m: [0mGET /api/v1/invoices?fields=title,destination,price,type&price[gte]=1000&destination=USA [32m200[0m 8.587 ms - 162[0m
+[2025-10-05 23:06:11] [32minfo[39m: Server is running on port 3000
+[2025-10-05 23:06:11] [32minfo[39m: [4m[36mMongoDB Connected: localhost[39m[24m
+[2025-10-05 23:06:21] [32minfo[39m: [0mGET /api/v1/invoices?fields=title,destination,price,type&price[gte]=1000&destination[in]=USA,Nepal [32m200[0m 54.151 ms - 282[0m
+[2025-10-05 23:09:07] [32minfo[39m: Server is running on port 3000
+[2025-10-05 23:09:07] [32minfo[39m: [4m[36mMongoDB Connected: localhost[39m[24m
+[2025-10-05 23:09:18] [32minfo[39m: [0mGET /api/v1/invoices?search=beach [32m200[0m 49.458 ms - 52[0m
+[2025-10-05 23:09:23] [32minfo[39m: [0mGET /api/v1/invoices [32m200[0m 20.405 ms - 1257[0m
+[2025-10-05 23:09:32] [32minfo[39m: [0mGET /api/v1/invoices?search=new%20york [32m200[0m 6.038 ms - 52[0m
+[2025-10-05 23:09:37] [32minfo[39m: [0mGET /api/v1/invoices?search=New%20York [32m200[0m 5.243 ms - 52[0m
+[2025-10-05 23:09:40] [32minfo[39m: [0mGET /api/v1/invoices?search=New [32m200[0m 6.434 ms - 52[0m
+[2025-10-05 23:10:01] [32minfo[39m: Server is running on port 3000
+[2025-10-05 23:10:01] [32minfo[39m: [4m[36mMongoDB Connected: localhost[39m[24m
+[2025-10-05 23:10:07] [32minfo[39m: [0mGET /api/v1/invoices?search=new%20york [32m200[0m 39.692 ms - 52[0m
+[2025-10-05 23:10:32] [32minfo[39m: [0mGET /api/v1/invoices?search=New [32m200[0m 4.327 ms - 52[0m
+[2025-10-05 23:10:35] [32minfo[39m: [0mGET /api/v1/invoices?search=New%20York [32m200[0m 8.509 ms - 52[0m
+[2025-10-05 23:11:43] [32minfo[39m: Server is running on port 3000
+[2025-10-05 23:11:43] [32minfo[39m: [4m[36mMongoDB Connected: localhost[39m[24m
+[2025-10-05 23:11:45] [32minfo[39m: [0mGET /api/v1/invoices?search=New%20York [32m200[0m 19.867 ms - 52[0m
+[2025-10-05 23:11:48] [32minfo[39m: [0mGET /api/v1/invoices?search=New%20York [32m200[0m 6.265 ms - 52[0m
+[2025-10-05 23:11:49] [32minfo[39m: [0mGET /api/v1/invoices?search=New%20York [32m200[0m 7.866 ms - 52[0m
+[2025-10-05 23:11:54] [32minfo[39m: [0mGET /api/v1/invoices?search=New [32m200[0m 11.068 ms - 52[0m
+[2025-10-05 23:13:18] [32minfo[39m: Server is running on port 3000
+[2025-10-05 23:13:18] [32minfo[39m: [4m[36mMongoDB Connected: localhost[39m[24m
+[2025-10-05 23:13:22] [32minfo[39m: [0mGET /api/v1/invoices?search=New [32m200[0m 15.653 ms - 52[0m
+[2025-10-06 10:04:05] [32minfo[39m: [0mGET /api/v1/invoices?search=New [32m200[0m 9.607 ms - 52[0m
+[2025-10-06 10:04:16] [32minfo[39m: [0mGET /api/v1/invoices?destination=USA&availableSeats[gte]=30 [32m200[0m 9.040 ms - 288[0m
